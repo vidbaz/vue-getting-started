@@ -127,9 +127,9 @@ export default {
     return {
       hero: {
         id: 20,
-        firstName: 'Vidal',
+        firstName: 'Vidbaz',
         lastName: 'Erick',
-        description: 'El mero mero',
+        description: 'Some cool stuff will start here',
         capeColor: '',
         power: '',
         active: true,
